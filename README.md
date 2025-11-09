@@ -1,4 +1,7 @@
+# Project Title:
 Vrinda Store Annual Report 2022
+
+# Description
 This project presents a comprehensive analysis of Vrinda Store’s e-commerce sales performance for the year 2022. The insights are visualized through interactive dashboards built in Microsoft Excel, showcasing trends, customer demographics, and order patterns that help drive data-driven decisions.
 
 
@@ -9,14 +12,14 @@ The purpose of this project is to analyze sales data and uncover meaningful insi
 # Key Insights
 •	Monthly Sales Trend: Tracks total sales amount and number of orders throughout the year. <br />
 •	Sales by Gender: Women customers contributed 64% of total sales, while men accounted for 36%. <br />
-•	Order Status: Majority of the orders (around 92%) were successfully delivered.
+•	Order Status: Majority of the orders (around 92%) were successfully delivered. <br />
 •	Top 5 States by Sales: Maharashtra, Karnataka, Tamil Nadu, Telangana, and Uttar Pradesh were the leading states in terms of sales. <br />
 •	Orders by Age & Gender: Adult women were the largest customer segment, followed by teenage customers. <br />
 •	Sales Channels: Platforms like Amazon, Flipkart, Meesho, Myntra, and Ajio were the main sales contributors. <br />
 
 
 # Tools & Technologies Used
-## Microsoft Excel / WPS Spreadsheet
+## Microsoft Excel / WPS Spreadsheet <br />
 o	Pivot Tables <br />
 o	Charts (Bar, Pie, and Line Graphs) <br />
 o	Data Filters and Slicers <br />
@@ -33,6 +36,10 @@ o	Conditional Formatting <br />
 2.	Open it in Microsoft Excel (or compatible software). <br />
 3.	Explore the interactive slicers to filter by month, category, or channel. <br />
 4.	Review each chart for detailed insights on performance metrics. <br />
+
+# Output Screenshot
+<img width="1321" height="679" alt="Screenshot 2025-11-08 124446" src="https://github.com/user-attachments/assets/557d3386-58ee-4043-95f6-e63e8e422624" />
+
 
 
 # Conclusion
