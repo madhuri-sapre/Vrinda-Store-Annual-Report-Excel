@@ -11,7 +11,7 @@ Highlighted top-performing states and sales contribution by e-commerce channels 
 Displayed order status breakdown (Delivered, Returned, Refunded, Cancelled) to track performance efficiency.
 
 Tools & Skills Used:   
-Microsoft Excel, Pivot Tables, Charts, Data Cleaning, Dashboard Design, Data Visualization, Business Analysis.
+Microsoft Excel, Pivot Tables, Charts, Data Cleaning, Dashboard Design, Data Visualization, Business Analysis.   
 
 Outcome:
 Delivered a comprehensive, easy-to-use dashboard that helps stakeholders monitor e-commerce performance, understand customer behavior, and identify high-performing regions and channels to improve sales strategy.
