@@ -10,7 +10,7 @@ Built visual comparisons for gender-wise and age-group sales distribution.
 Highlighted top-performing states and sales contribution by e-commerce channels such as Amazon, Flipkart, Meesho, and Myntra.
 Displayed order status breakdown (Delivered, Returned, Refunded, Cancelled) to track performance efficiency.
 
-Tools & Skills Used:
+Tools & Skills Used:   
 Microsoft Excel, Pivot Tables, Charts, Data Cleaning, Dashboard Design, Data Visualization, Business Analysis.
 
 Outcome:
